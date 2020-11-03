@@ -9,4 +9,6 @@ Stima Data Science Lab: stima con intervallo di confidenza dei reali morti da co
 
 Data mangement and Visualization project: lavoro di raccolta in streaming dei tweet(usando kafka) durante la finale di champions league 2020 e immagazzinamento dei dati in collezioni di MongoDB, realizzazioni di infografiche per rispondere a precise domande di ricerca, linguaggi: python, mongoDB,Tableau
 
+Machine Learning project: utilizzo di algoritmi e valutazione delle loro performance al fine di classificare al meglio i soggetti caratterizzati da malattie al fegato, software:knime
+
 Computer Science project: manipolazione dataframe pandas, linguaggio: python
