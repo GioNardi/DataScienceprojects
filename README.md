@@ -1,4 +1,4 @@
-# DataScienceprojects
+# Data Science projects
 Statistics project: applicazione di inferenza e modelli di regressione al mercato dell'automobile, linguaggio: R
 
 Tesi: applicazione di modelli di regressione di ultima generazione nell'ambito dei tumori alla prostata, linguaggio: R
