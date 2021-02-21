@@ -12,3 +12,5 @@ Data mangement and Visualization project: lavoro di raccolta in streaming dei tw
 Machine Learning project: utilizzo di algoritmi e valutazione delle loro performance al fine di classificare al meglio i soggetti caratterizzati da malattie al fegato, software:knime
 
 Computer Science project: manipolazione dataframe pandas, linguaggio: python
+
+Start Up: progetto che prevede la progettazione di un modello di business basato sulla previsione del prezzo dell'energia elettrica, considerando la borsa elettrica
